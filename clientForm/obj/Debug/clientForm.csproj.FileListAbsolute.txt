@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\tp1\clientForm\bin\Debug\clientForm.exe.config
+C:\Users\dell\source\repos\tp1\clientForm\bin\Debug\clientForm.exe
+C:\Users\dell\source\repos\tp1\clientForm\bin\Debug\clientForm.pdb
+C:\Users\dell\source\repos\tp1\clientForm\obj\Debug\clientForm.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\tp1\clientForm\obj\Debug\clientForm.calculatrice.resources
+C:\Users\dell\source\repos\tp1\clientForm\obj\Debug\clientForm.Properties.Resources.resources
+C:\Users\dell\source\repos\tp1\clientForm\obj\Debug\clientForm.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\tp1\clientForm\obj\Debug\clientForm.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\tp1\clientForm\obj\Debug\clientForm.exe
+C:\Users\dell\source\repos\tp1\clientForm\obj\Debug\clientForm.pdb

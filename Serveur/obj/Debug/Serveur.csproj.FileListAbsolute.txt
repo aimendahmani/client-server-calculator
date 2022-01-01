@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\tp1\Serveur\bin\Debug\Serveur.exe.config
+C:\Users\dell\source\repos\tp1\Serveur\bin\Debug\Serveur.exe
+C:\Users\dell\source\repos\tp1\Serveur\bin\Debug\Serveur.pdb
+C:\Users\dell\source\repos\tp1\Serveur\obj\Debug\Serveur.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\tp1\Serveur\obj\Debug\Serveur.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\tp1\Serveur\obj\Debug\Serveur.exe
+C:\Users\dell\source\repos\tp1\Serveur\obj\Debug\Serveur.pdb
